@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Add Group(failed)">
+    <classes>
+      <class name="com.nurseryadministrator.testscript.AddGroup">
+        <methods>
+          <include name="initialize"/>
+          <include name="addToddlersGroup"/>
+          <include name="testReportResult"/>
+          <include name="addPreKGGroup"/>
+          <include name="start"/>
+          <include name="tearDown"/>
+          <include name="signOut"/>
+        </methods>
+      </class> <!-- com.nurseryadministrator.testscript.AddGroup -->
+    </classes>
+  </test> <!-- Add Group(failed) -->
+  <test thread-count="5" name="List Admin(failed)">
+    <classes>
+      <class name="com.nurseryadministrator.testscript.AdminList">
+        <methods>
+          <include name="initialize"/>
+          <include name="signOut"/>
+          <include name="testReportResult"/>
+          <include name="filterByEmail"/>
+          <include name="start"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.nurseryadministrator.testscript.AdminList -->
+    </classes>
+  </test> <!-- List Admin(failed) -->
+</suite> <!-- Failed suite [Suite] -->

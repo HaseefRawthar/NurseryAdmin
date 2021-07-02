@@ -1,0 +1,194 @@
+2021-06-22 11:39:23,990  INFO [main] SetUp:99 - Report status initiated
+2021-06-22 11:39:24,195  INFO [main] SetUp:319 - entered getValidCredentialsFromJSONfile
+2021-06-22 11:39:24,206  INFO [main] SetUp:329 - teste1exp@gmail.com
+2021-06-22 11:39:24,206  INFO [main] SetUp:330 - 0pR6Gm
+2021-06-22 11:39:33,062  INFO [main] SetUp:79 - Page opened
+2021-06-22 11:39:33,161  INFO [main] SetUp:41 - Entered logIn method
+2021-06-22 11:39:44,262  INFO [main] SetUp:146 - enter select language method
+2021-06-22 11:39:44,294  INFO [main] SetUp:50 - Entered verifyDashboard test
+2021-06-22 11:39:44,566  INFO [main] SetUp:71 - Assertion Passed
+2021-06-22 11:39:44,582  INFO [main] SetUp:123 - enter testReportResult method 
+2021-06-22 11:39:49,689  INFO [main] SetUp:120 - logged out successfully
+2021-06-22 11:39:49,986  INFO [main] SetUp:29 - Entered readExcel method
+2021-06-22 11:39:50,466  INFO [main] SetUp:41 - Entered logIn method
+2021-06-22 11:40:03,476  INFO [main] SetUp:146 - enter select language method
+2021-06-22 11:40:03,481  INFO [main] SetUp:73 - Entered addBabiesGroup test
+2021-06-22 11:40:05,244  INFO [main] SetUp:98 - Assertion passed
+2021-06-22 11:40:05,250  INFO [main] SetUp:123 - enter testReportResult method 
+2021-06-22 11:40:05,394  INFO [main] SetUp:109 - Entered addBabiesGroup test
+2021-06-22 11:40:05,666  INFO [main] SetUp:59 - Entered writeCell method
+2021-06-22 11:40:05,730  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:40:11,789  INFO [main] SetUp:123 - enter testReportResult method 
+2021-06-22 11:40:12,196  INFO [main] SetUp:120 - logged out successfully
+2021-06-22 11:40:12,276  INFO [main] SetUp:29 - Entered readExcel method
+2021-06-22 11:40:12,288  INFO [main] SetUp:41 - Entered logIn method
+2021-06-22 11:40:26,354  INFO [main] SetUp:146 - enter select language method
+2021-06-22 11:40:26,359  INFO [main] SetUp:162 - Entered deactivateGroup test
+2021-06-22 11:40:26,580  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:40:26,580  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:40:33,330  INFO [main] SetUp:205 - Assertion Passed
+2021-06-22 11:40:33,335  INFO [main] SetUp:123 - enter testReportResult method 
+2021-06-22 11:40:33,472  INFO [main] SetUp:216 - Entered activateGroup test
+2021-06-22 11:40:33,596  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:40:33,596  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:40:39,536  INFO [main] SetUp:259 - Assertion Passed
+2021-06-22 11:40:39,540  INFO [main] SetUp:123 - enter testReportResult method 
+2021-06-22 11:40:39,690  INFO [main] SetUp:339 - Entered filterByGroupType test
+2021-06-22 11:40:45,988  INFO [main] SetUp:399 - Assertion passed
+2021-06-22 11:40:45,993  INFO [main] SetUp:123 - enter testReportResult method 
+2021-06-22 11:40:46,440  INFO [main] SetUp:120 - logged out successfully
+2021-06-22 11:40:46,503  INFO [main] SetUp:29 - Entered readExcel method
+2021-06-22 11:40:46,535  INFO [main] SetUp:41 - Entered logIn method
+2021-06-22 11:41:00,220  INFO [main] SetUp:146 - enter select language method
+2021-06-22 11:41:00,223  INFO [main] SetUp:64 - Entered verifyMandatoryMsgVisibile test
+2021-06-22 11:41:02,613  INFO [main] SetUp:94 - Assertion passed
+2021-06-22 11:41:02,617  INFO [main] SetUp:123 - enter testReportResult method 
+2021-06-22 11:41:02,804  INFO [main] SetUp:321 - Entered addEmployeeAsTeacherAndNurse test
+2021-06-22 11:41:03,060  INFO [main] SetUp:59 - Entered writeCell method
+2021-06-22 11:41:03,085  INFO [main] SetUp:59 - Entered writeCell method
+2021-06-22 11:41:03,113  INFO [main] SetUp:59 - Entered writeCell method
+2021-06-22 11:41:03,142  INFO [main] SetUp:59 - Entered writeCell method
+2021-06-22 11:41:03,158  INFO [main] SetUp:59 - Entered writeCell method
+2021-06-22 11:41:03,183  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:03,184  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:03,185  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:03,185  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:03,186  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:03,186  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:03,186  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:04,725  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:04,726  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:04,726  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:04,728  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:10,647  INFO [main] SetUp:354 - Assertion Passed
+2021-06-22 11:41:10,658  INFO [main] SetUp:123 - enter testReportResult method 
+2021-06-22 11:41:11,157  INFO [main] SetUp:120 - logged out successfully
+2021-06-22 11:41:11,201  INFO [main] SetUp:29 - Entered readExcel method
+2021-06-22 11:41:11,216  INFO [main] SetUp:41 - Entered logIn method
+2021-06-22 11:41:25,730  INFO [main] SetUp:146 - enter select language method
+2021-06-22 11:41:25,735  INFO [main] SetUp:67 - Entered viewTeacherDetails test
+2021-06-22 11:41:26,135  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:26,136  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:26,137  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:26,137  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:26,137  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:26,138  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:26,138  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:26,139  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:26,139  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:26,139  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:26,140  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:30,796  INFO [main] SetUp:114 - Assertion Passed
+2021-06-22 11:41:30,797  INFO [main] SetUp:123 - enter testReportResult method 
+2021-06-22 11:41:31,025  INFO [main] SetUp:122 - Entered deactivateTeacher test
+2021-06-22 11:41:31,210  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:31,211  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:31,214  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:31,214  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:31,215  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:31,215  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:31,215  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:36,979  INFO [main] SetUp:167 - Assertion Passed
+2021-06-22 11:41:36,982  INFO [main] SetUp:123 - enter testReportResult method 
+2021-06-22 11:41:37,148  INFO [main] SetUp:175 - Entered activateTeacher test
+2021-06-22 11:41:37,310  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:37,310  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:37,312  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:37,313  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:37,313  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:37,313  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:37,314  INFO [main] SetUp:45 - Entered getValue method
+2021-06-22 11:41:44,313  INFO [main] SetUp:220 - Assertion Passed
+2021-06-22 11:41:44,314  INFO [main] SetUp:123 - enter testReportResult method 
+2021-06-22 11:41:44,710  INFO [main] SetUp:120 - logged out successfully
+2021-06-22 11:41:44,806 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:44,808 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/spark.spa_en_IN.ftl"): Not found
+2021-06-22 11:41:44,813 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/spark.spa_en.ftl"): Not found
+2021-06-22 11:41:44,815 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/spark.spa.ftl"): Found
+2021-06-22 11:41:44,816 DEBUG [main] cache:44 - Loading template for "spark/spark.spa.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/spark.spa.ftl"
+2021-06-22 11:41:45,112 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,114 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables_en_IN.ftl"): Not found
+2021-06-22 11:41:45,115 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables_en.ftl"): Not found
+2021-06-22 11:41:45,115 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-variables.ftl"): Found
+2021-06-22 11:41:45,116 DEBUG [main] cache:44 - Loading template for "commons/commons-variables.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-variables.ftl"
+2021-06-22 11:41:45,238 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,240 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-macros_en_IN.ftl"): Not found
+2021-06-22 11:41:45,241 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-macros_en.ftl"): Not found
+2021-06-22 11:41:45,242 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-macros.ftl"): Found
+2021-06-22 11:41:45,243 DEBUG [main] cache:44 - Loading template for "commons/commons-macros.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-macros.ftl"
+2021-06-22 11:41:45,265 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,266 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/attributes_en_IN.ftl"): Not found
+2021-06-22 11:41:45,269 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/attributes_en.ftl"): Not found
+2021-06-22 11:41:45,270 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/attributes.ftl"): Found
+2021-06-22 11:41:45,271 DEBUG [main] cache:44 - Loading template for "spark/macros/attributes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/attributes.ftl"
+2021-06-22 11:41:45,275 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/macros/log.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,277 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/log_en_IN.ftl"): Not found
+2021-06-22 11:41:45,277 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/log_en.ftl"): Not found
+2021-06-22 11:41:45,278 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/log.ftl"): Found
+2021-06-22 11:41:45,279 DEBUG [main] cache:44 - Loading template for "spark/macros/log.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/log.ftl"
+2021-06-22 11:41:45,287 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,288 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en_IN.ftl"): Not found
+2021-06-22 11:41:45,289 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes_en.ftl"): Not found
+2021-06-22 11:41:45,290 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/macros/recurse_nodes.ftl"): Found
+2021-06-22 11:41:45,290 DEBUG [main] cache:44 - Loading template for "spark/macros/recurse_nodes.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/macros/recurse_nodes.ftl"
+2021-06-22 11:41:45,296 DEBUG [main] cache:44 - "spark/macros/log.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-22 11:41:45,308 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/head.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,308 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/head_en_IN.ftl"): Not found
+2021-06-22 11:41:45,309 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/head_en.ftl"): Not found
+2021-06-22 11:41:45,312 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/head.ftl"): Found
+2021-06-22 11:41:45,313 DEBUG [main] cache:44 - Loading template for "spark/partials/head.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/head.ftl"
+2021-06-22 11:41:45,319 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,320 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en_IN.ftl"): Not found
+2021-06-22 11:41:45,321 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-css_en.ftl"): Not found
+2021-06-22 11:41:45,322 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-css.ftl"): Found
+2021-06-22 11:41:45,323 DEBUG [main] cache:44 - Loading template for "commons/commons-inject-css.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-inject-css.ftl"
+2021-06-22 11:41:45,325 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,326 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/navbar_en_IN.ftl"): Not found
+2021-06-22 11:41:45,327 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/navbar_en.ftl"): Not found
+2021-06-22 11:41:45,328 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/navbar.ftl"): Found
+2021-06-22 11:41:45,329 DEBUG [main] cache:44 - Loading template for "spark/partials/navbar.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/navbar.ftl"
+2021-06-22 11:41:45,435 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,436 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en_IN.ftl"): Not found
+2021-06-22 11:41:45,437 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/sidenav_en.ftl"): Not found
+2021-06-22 11:41:45,438 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/sidenav.ftl"): Found
+2021-06-22 11:41:45,438 DEBUG [main] cache:44 - Loading template for "spark/partials/sidenav.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/sidenav.ftl"
+2021-06-22 11:41:45,443 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/test.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,445 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/test_en_IN.ftl"): Not found
+2021-06-22 11:41:45,446 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/test_en.ftl"): Not found
+2021-06-22 11:41:45,448 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/test.ftl"): Found
+2021-06-22 11:41:45,460 DEBUG [main] cache:44 - Loading template for "spark/partials/test.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/test.ftl"
+2021-06-22 11:41:45,590 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,592 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en_IN.ftl"): Not found
+2021-06-22 11:41:45,593 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/standard-content_en.ftl"): Not found
+2021-06-22 11:41:45,594 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/standard-content.ftl"): Found
+2021-06-22 11:41:45,594 DEBUG [main] cache:44 - Loading template for "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/standard-content.ftl"
+2021-06-22 11:41:45,615 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-22 11:41:45,621 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-22 11:41:45,623 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-22 11:41:45,625 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-22 11:41:45,627 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-22 11:41:45,628 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-22 11:41:45,637 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-22 11:41:45,643 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-22 11:41:45,645 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-22 11:41:45,647 DEBUG [main] cache:44 - "spark/partials/standard-content.ftl"("en_IN", UTF-8, parsed) cached copy not yet stale; using cached.
+2021-06-22 11:41:45,648 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/tag.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,648 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/tag_en_IN.ftl"): Not found
+2021-06-22 11:41:45,653 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/tag_en.ftl"): Not found
+2021-06-22 11:41:45,654 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/tag.ftl"): Found
+2021-06-22 11:41:45,654 DEBUG [main] cache:44 - Loading template for "spark/partials/tag.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/tag.ftl"
+2021-06-22 11:41:45,682 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,683 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_IN.ftl"): Not found
+2021-06-22 11:41:45,685 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+2021-06-22 11:41:45,686 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+2021-06-22 11:41:45,686 DEBUG [main] cache:44 - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/dashboard.ftl"
+2021-06-22 11:41:45,817 DEBUG [main] cache:44 - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,818 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+2021-06-22 11:41:45,819 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+2021-06-22 11:41:45,820 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
+2021-06-22 11:41:45,821 DEBUG [main] cache:44 - Loading template for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/spark/partials/scripts.ftl"
+2021-06-22 11:41:45,823 DEBUG [main] cache:44 - Couldn't find template in cache for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2021-06-22 11:41:45,824 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en_IN.ftl"): Not found
+2021-06-22 11:41:45,825 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-js_en.ftl"): Not found
+2021-06-22 11:41:45,826 DEBUG [main] cache:44 - TemplateLoader.findTemplateSource("commons/commons-inject-js.ftl"): Found
+2021-06-22 11:41:45,826 DEBUG [main] cache:44 - Loading template for "commons/commons-inject-js.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/haseef/.m2/repository/com/aventstack/extentreports/4.1.5/extentreports-4.1.5.jar!/com/aventstack/extentreports/view/commons/commons-inject-js.ftl"
