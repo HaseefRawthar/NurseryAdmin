@@ -3,49 +3,7 @@
 
    <test name="Dashboard" >
     <classes>
-      <class name="com.nurseryadministrator.testscript.Dashboard">
-      </class>
-    </classes>
-  </test>
-   <test name="Add Group" >
-    <classes>
-      <class name="com.nurseryadministrator.testscript.AddGroup">
-      <methods>
-      <include name="verifyMandatoryMsgVisible"></include>
-      <include name="addBabiesGroup"></include>
-      </methods>
-      </class>
-    </classes>
-  </test>
-   <test name="Group List" >
-    <classes>
-      <class name="com.nurseryadministrator.testscript.GroupList">
-      <methods>
-      <include name="deactivateGroup"></include>
-      <include name="activateGroup"></include>
-      <include name="filterByGroupType"></include>
-      </methods>
-      </class>
-    </classes>
-  </test>
-   <test name="Add Employee" >
-    <classes>
-      <class name="com.nurseryadministrator.testscript.AddEmployee">
-      <methods>
-      <include name="verifyMandatoryMsgVisibile"></include>
-      <include name="addEmployeeWithAllRoles"></include>
-      </methods>
-      </class>
-    </classes>
-  </test>
-  <test name="Teacher List" >
-    <classes>
-      <class name="com.nurseryadministrator.testscript.TeacherList">
-      <methods>
-      <include name="viewTeacherDetails"></include>
-      <include name="deactivateTeacher"></include>
-      <include name="activateTeacher"></include>
-      </methods>
+      <class name="com.nurseryadministrator.testscript.LogIn">
       </class>
     </classes>
   </test>
